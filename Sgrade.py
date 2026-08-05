@@ -10,4 +10,4 @@ elif marks >= 40 and marks <= 59:
 elif marks >= 0 and marks <= 39:
     print("Grade: F")
 else:
-    print("Invalid marks") 
+    print("Invalid marks")
