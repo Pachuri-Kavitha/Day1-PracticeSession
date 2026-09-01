@@ -1,3 +1,4 @@
+import JavaDeveloper
 class Developer:
     def work(self):
         print("Developer is working")
